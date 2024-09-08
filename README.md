@@ -13,7 +13,7 @@ For the forecasting component, we employ Long Short-Term Memory (LSTM) models to
   - Local Outlier Factor (LOF)
  
     
-**Time Series Forecasting:**
+- **Time Series Forecasting:**
 
   - STM for forecasting
   - Prophet with detailed parameter exploration
