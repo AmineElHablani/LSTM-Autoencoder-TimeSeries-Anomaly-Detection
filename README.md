@@ -2,7 +2,7 @@
 ### Abstract
 This project tackles the challenge of anomaly detection in time series data using several advanced techniques. Starting with anomaly detection, we implement methods such as LSTM Autoencoder, Median Absolute Deviation (MAD), Isolation Forest, and Local Outlier Factor (LOF) to identify anomalies. Each approach is carefully evaluated for its ability to detect irregular patterns and outliers in time series datasets.
 
-For the forecasting component, we employ Long Short-Term Memory (LSTM) models to predict future time series data. Additionally, we utilize the Facebook Prophet model for forecasting, delving into its parameters to optimize performance. A custom pipeline similar to GridSearch was created to automate the hyperparameter tuning process, further enhancing the forecasting accuracy.
+For the forecasting component, we focus on predicting weather in Tunisia. We employ Long Short-Term Memory (LSTM) models for this task and utilize the Facebook Prophet model for forecasting. We delve into Prophet's parameters to optimize performance and implement a custom pipeline similar to GridSearch for automated hyperparameter tuning, further enhancing forecasting accuracy.
 
 ### Key Features
 - **Anomaly Detection:**
