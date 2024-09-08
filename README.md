@@ -15,6 +15,6 @@ For the forecasting component, we focus on predicting **weather in Tunisia**. We
     
 - **Time Series Forecasting:**
 
-  - STM for forecasting
+  - LSTM for forecasting
   - Prophet with detailed parameter exploration
   - Automated hyperparameter tuning using a custom pipeline (similar to GridSearch)
